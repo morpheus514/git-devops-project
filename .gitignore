@@ -3,3 +3,5 @@ node_modules/
 *.log
 .terraform/
 __pycache__/
+*.tfstate
+.DS_Store
