@@ -38,3 +38,9 @@
 
 \- Branching strategy, PRs, tags, .gitignore, markdown docs
 
+
+
+\## Notes
+
+All tasks completed on Windows 11 using Command Prompt.
+
